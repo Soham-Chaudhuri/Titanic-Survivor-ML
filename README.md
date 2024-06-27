@@ -42,6 +42,3 @@ The model achieved the following performance metrics on a test set:
 - Pandas
 - Scikit-learn
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
